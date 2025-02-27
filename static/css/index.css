@@ -181,3 +181,9 @@ body {
   -webkit-background-clip: text;
   color: transparent;
 }
+
+.cvpr-blue-text {
+  color: #0061F2;
+  font-size: 1.25rem;
+  font-weight: bold;
+}
